@@ -1,5 +1,5 @@
 {
-  "name": "cache-cache",
+  "name": "@siquemlabs/cache",
   "description": "A simple, performant and lightweight cache library with support for TTL and LRU",
   "source": "index.js",
   "type": "module",
