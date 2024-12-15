@@ -7,6 +7,12 @@
   "module": "dist/index.modern.js",
   "version": "1.0.0",
   "license": "MIT",
+  "repository": "https://github.com/siquemlabs/cache",
+  "keywords": [
+    "LRU",
+    "TTL",
+    "cache"
+  ],
   "publishConfig": {
     "access": "public"
   },
